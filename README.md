@@ -1,5 +1,5 @@
 ### Hi there 👋
-**codewithpunit is a ✨ _Full stack Developer_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codewithpunit is a ✨ _Full stack Developer_ ✨ repository on your GitHub profile.
 
 Here are some ideas to get you started:
 
