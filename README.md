@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <hr>
 - <a href="https://codewithpunit.github.io" target="_blank">GitHub Profile</a>
+- <a href="https://codewithpunit.blogspot.com" target="_blank">Blogger Profile</a>
