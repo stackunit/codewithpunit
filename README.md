@@ -1,9 +1,9 @@
 ### Hi there 👋
-**codewithpunit/codewithpunit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codewithpunit is a ✨ _Full stack Developer_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on myunitbook 
+- 🔭 I’m currently working on myunitbook.com 
 - 🌱 I’m currently learning node
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
