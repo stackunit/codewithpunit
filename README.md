@@ -1,5 +1,5 @@
 ### Hi there 👋
-**codewithpunit is a ✨ _Full stack Developer_ ✨ repository on your GitHub profile.
+**code with punit is a ✨ _Full stack Developer_ ✨ repository on your GitHub profile.
 
 Design developer and testing:
 
