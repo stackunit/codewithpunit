@@ -12,7 +12,7 @@
 
 </table>
 ### Hi there 👋
-**code with punit is a ✨ _Full stack Developer_ ✨ repository on your GitHub profile.
+** A ✨ _Full stack Developer_ ✨ repository .
 
 Design developer and testing:
 
