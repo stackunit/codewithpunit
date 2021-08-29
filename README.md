@@ -24,9 +24,8 @@ Design developer and testing:
 - 📫 How to reach me: codewithpunit.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <a href="https://codewithpunit.github.io" target="_blank">GitHub Profile</a>
-- <a href="https://codewithpunit.blogspot.com" target="_blank">Blogger Profile</a>
-- <a href="">Codeigniter Sourse Code</a>
+- <a href="https://codewithpunit.github.io" target="_blank">GitHub Workspace</a>
+- <a href="https://codeigniter.codewithpunit.com">Codeigniter Sourse Code</a>
 
 My Website :<a href="https://codewithpunit.com">codewithpunit.com</a>
 
