@@ -25,7 +25,7 @@ Design developer and testing:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - <a href="https://codewithpunit.github.io" target="_blank">GitHub Workspace</a>
-- <a href="https://codeigniter.codewithpunit.com">Codeigniter Sourse Code</a>
+- <a href="https://codeigniter.codewithpunit.com">Codeigniter Project</a>
 
 My Website :<a href="https://codewithpunit.com">codewithpunit.com</a>
 
