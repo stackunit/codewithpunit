@@ -1,15 +1,9 @@
 <table width="100%">
   <tr>
-     <td width="80%">
+     <td>
       <h1>Start Learning Code With Punit</h1>
     </td>
-    <td width="20%">
-   
-    </td>
-   
-  
   </tr>
-
 </table>
 ### Hi there 👋
 ** A ✨ _Full stack Developer_ ✨ repository .
