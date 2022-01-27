@@ -4,7 +4,7 @@
       <h1>Start Learning Code With Punit</h1>
     </td>
     <td width="20%">
-    <img src="https://codewithpunit.com/image/html-css-js.png" width="100%">
+   
     </td>
    
   
