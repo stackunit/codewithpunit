@@ -1,10 +1,3 @@
-<table width="100%">
-  <tr>
-     <td>
-      <h1>Start Learning Code With Punit</h1>
-    </td>
-  </tr>
-</table>
 ### Hi there 👋
 ** A ✨ _Full stack Developer_ ✨ repository .
 
